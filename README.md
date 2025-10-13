@@ -37,10 +37,10 @@ A proposta principal é criar um mecanismo interligado com produtores e forneced
 Para executar o codigo é necessario uma IDE para leitura de arquivos .py e um banco de dados oracle para ter o acesso.
 Bibliotecas usadas : Pandas , Oracle
 
-Baixar o arquivo "Programa Principal.py"
-Executar em uma IDE
-Baixar o banco de dados estruturado
-Executar o programa 
+- Baixar o arquivo "Programa Principal.py"
+- Executar em uma IDE
+- Baixar o banco de dados estruturado
+- Executar o programa 
 
 
 
