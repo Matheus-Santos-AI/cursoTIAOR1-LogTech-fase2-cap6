@@ -1,3 +1,9 @@
+# Grupo:
+# Matheus de Souza Santos
+# Ricardo José Amorim Campos
+# Victor Oliveira Fedeli Tate
+# Paulo Roberto Silva Amaral Ribeiro Junior
+
 # Importação dos módulos
 import os
 import oracledb
@@ -375,4 +381,5 @@ while conexao:
     # Pausa o fluxo da aplicação para a leitura das informações
     input(margem + "Pressione ENTER")
 else:
+
     print("Obrigado por utilizar a nossa aplicação! :)")
