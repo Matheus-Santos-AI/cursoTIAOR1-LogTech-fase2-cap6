@@ -28,7 +28,8 @@
 
 Este projeto tem como objetivo analisar e automatizar a escolha de uma empresa logistica, pré-cadastrada, para execução de um frete analizando as opções de carga que elas fornecem e seu preço por tonelada.
 A principio é informado o nome da empresa com melhor frete para ocasião, fornece o valor total da entrega, gera um relatorio .TXT e um arquivo .Json para futuras compatibilidades e novos recursos do sistema.
-A proposta principal é criar um mecanismo interligado com produtores e fornecedores de serviço logisto para cruzar dados e fornecer o melhor preço e realizar a entrega no menor espaço de tempo.
+A proposta principal é criar um mecanismo integrado com produtores e fornecedores de serviço logisto para cruzar dados e fornecer o melhor preço e tambem realizar a entrega no menor espaço de tempo, ainda é necessario mais implementações para ter 100% das funcionalidades idealizadas, como por exemplo : custumização de tragetos, controle de estoque com validade de produtos e demanda, projeção de demanda logistica, viabilidade de venda, frete reverso, entre outros que envolvem o uso de IA.
+
 
 
 
@@ -39,8 +40,7 @@ Bibliotecas usadas : Pandas , Oracle
 
 - Baixar o arquivo "Programa Principal.py"
 - Executar em uma IDE
-- Baixar o banco de dados estruturado
-- Executar o programa 
+- Executar o programa conforme instruções na tela.
 
 
 
